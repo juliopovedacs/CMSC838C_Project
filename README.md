@@ -1,5 +1,3 @@
-Group 1
-
 ## Team Members
 
 * [Laura Zheng](https://github.com/laurayuzheng)
@@ -9,8 +7,16 @@ Group 1
 
 ## Project Proposal
 
-Link to be posted
+Link to be posted soon
 
-## Progress
+## Progress Update
+
+To do
+
+## Final Write-up
+
+To do
+
+## Final Presentation
 
 To do
