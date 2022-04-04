@@ -12,7 +12,7 @@ The objective of our study is to formally define personality parameter values wh
 
 ## Project Proposal
 
-You can find our project proposal [here](https://docs.google.com/presentation/d/1QTiqmQtdRBA3KuIpzLLV4308cSCE2cb9VmumZg2aXSo/edit?usp=sharing)
+You can find our project proposal [here](https://docs.google.com/presentation/d/1QTiqmQtdRBA3KuIpzLLV4308cSCE2cb9VmumZg2aXSo/edit?usp=sharing) (it requires you to login with your UMD account)
 
 ## Progress Update
 
