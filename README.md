@@ -7,8 +7,10 @@ The objective of our study is to formally define personality parameter values wh
 
 * [Laura Zheng](https://github.com/laurayuzheng)
 * [James Mullen](https://github.com/mullenj)
-* [Tianrui Guan](https://github.com/rayguan97)
 * [Julio Poveda](https://github.com/juliopovedacs)
+* [Tianrui Guan](https://github.com/rayguan97)
+* [Yan Xu](https://github.com/Connor-XY)
+
 
 ## Project Proposal
 
