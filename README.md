@@ -27,3 +27,8 @@ To do
 ## Final Presentation
 
 To do
+
+
+## Questions
+
+If you have any questions about our project, please send [Laura](mailto:lyzheng@umd.edu), [James](mailto:mullenj@umd.edu), [Julio](mailto:jpoveda@umd.edu), [Tianrui](mailto:rayguan@umd.edu), and [Yan](mailto:rayguan) an email
