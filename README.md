@@ -18,7 +18,7 @@ You can find our project proposal [here](https://docs.google.com/presentation/d/
 
 ## Progress Update
 
-To do
+Our progress update is available [here](https://docs.google.com/presentation/d/1NY3kDtFc6owzz6lLscXftky2gyI9WUFsEYg61BjRv4o/edit?usp=sharing)
 
 ## Final Write-up
 
