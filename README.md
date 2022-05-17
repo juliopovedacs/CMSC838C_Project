@@ -22,11 +22,11 @@ Our progress update is available [here](https://docs.google.com/presentation/d/1
 
 ## Final Write-up
 
-To do
+Our final written report can be accessed [here](https://juliopovedacs.github.io/CMSC838C_Project/)
 
 ## Final Presentation
 
-To do
+To see our final presentation, click [here](https://juliopovedacs.github.io/CMSC838C_Project/)
 
 
 ## Questions
