@@ -23,7 +23,7 @@ Our progress update is available [here](https://docs.google.com/presentation/d/1
 
 ## Final Write-up
 
-Our final written report can be accessed [here](https://docs.google.com/document/d/1cHaXi0kTwUIXXSxQhL_DC0b5xLieQFlsPkxlmIVADEw/edit?usp=sharing)
+Our final written report, which includes our demo videos and results, can be accessed [here](https://docs.google.com/document/d/1cHaXi0kTwUIXXSxQhL_DC0b5xLieQFlsPkxlmIVADEw/edit?usp=sharing)
 
 ## Final Presentation
 
