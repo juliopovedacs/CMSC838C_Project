@@ -11,6 +11,7 @@ The objective of our study is to formally define personality parameter values wh
 * [Tianrui Guan](https://github.com/rayguan97)
 * [Yan Xu](https://github.com/Connor-XY)
 
+**IMPORTANT**: to be able to access the following links you need to be logged into your UMD account
 
 ## Project Proposal
 
@@ -22,11 +23,11 @@ Our progress update is available [here](https://docs.google.com/presentation/d/1
 
 ## Final Write-up
 
-Our final written report can be accessed [here](https://juliopovedacs.github.io/CMSC838C_Project/)
+Our final written report can be accessed [here](https://docs.google.com/document/d/1cHaXi0kTwUIXXSxQhL_DC0b5xLieQFlsPkxlmIVADEw/edit?usp=sharing)
 
 ## Final Presentation
 
-To see our final presentation, click [here](https://juliopovedacs.github.io/CMSC838C_Project/)
+To see our final presentation, click [here]([https://juliopovedacs.github.io/CMSC838C_Project/](https://docs.google.com/presentation/d/1-6ai7AtqtV0nMdBi3FZiW9lMLGnu66Rmo791dv-rMpY/edit?usp=sharing))
 
 
 ## Questions
