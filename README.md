@@ -27,9 +27,9 @@ Our final written report can be accessed [here](https://docs.google.com/document
 
 ## Final Presentation
 
-To see our final presentation, click [here]([https://juliopovedacs.github.io/CMSC838C_Project/](https://docs.google.com/presentation/d/1-6ai7AtqtV0nMdBi3FZiW9lMLGnu66Rmo791dv-rMpY/edit?usp=sharing))
+To see our final presentation, click [here](https://docs.google.com/presentation/d/1-6ai7AtqtV0nMdBi3FZiW9lMLGnu66Rmo791dv-rMpY/edit?usp=sharing)
 
 
 ## Questions
 
-If you have any questions about our project, please send [Laura](mailto:lyzheng@umd.edu), [James](mailto:mullenj@umd.edu), [Julio](mailto:jpoveda@umd.edu), [Tianrui](mailto:rayguan@umd.edu), and [Yan](mailto:yxu98@umd.edu) an email
+If you have any questions about our project, please send [Laura](mailto:lyzheng@umd.edu), [James](mailto:mullenj@umd.edu), [Julio](mailto:jpoveda@umd.edu),  and [Yan](mailto:yxu98@umd.edu) an email
